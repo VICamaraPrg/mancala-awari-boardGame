@@ -4,4 +4,4 @@ Hello and welcome to my first Java project, in this case corresponds to a school
 
 First of all, lets take a look on what Mancala is...</br>
 Mancala is a family of board games, just like Chess is for <b><i>Xiangqi</i></b> (Chinese Chess) or <b><i>Shogi</i></b> (Japanese Chess) or <b><i>Janggi</i></b> (Korean Chess).</br>
-In this case, we are into <b><i>Awari</i></b> variant
+In this case, we are into <b><i>Awari</i></b> variant. </br>Most of Mancala games are from Africa and specifically this variant, the <b><i>Awari</i></b> is most played in countries like Nigeria, Mali, Ivory Coast, Benin, Cape Verde, Ghana, Togo... But mostly played in all the continent. </br> </br>
