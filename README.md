@@ -13,4 +13,4 @@ The board is something like this, although there is an infinity of boards, but t
 So lets get into the game! The Awari uses 14 holes or "fields". Initially, you have to place 4 seeds in each hole but not into the big external ones. This will make the seed count to 48 in total. </br>
 The lower 6 fields and the big right one is for player 1. The higher 6 fields and big left one are for player 2, Just like this:
 
-![Mancala-Board-Paint]
+![Mancala-Board-Paint](images/MancalaBoardDraw.JPG)
