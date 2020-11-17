@@ -1,1 +1,1 @@
-# mancala-awari-boardGame
+# Mancala Awari Boardgame
